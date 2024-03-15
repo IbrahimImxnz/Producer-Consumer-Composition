@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a718bb1e-49a4-410f-9e92-dd968281b1ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dCNwYNs2N6Ss75Ngny39alKKNF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FPTCarsAG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FPTCarsAG" />
+      <module name="ubung10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FPTCarsAG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a718bb1e-49a4-410f-9e92-dd968281b1ca" name="Default Changelist" comment="" />
+      <created>1709508338341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709508338341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1709520564626">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="190" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1709520564626" />
+    <state width="723" height="205" key="GridCell.Tab.0.bottom" timestamp="1710464422130">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="723" height="205" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1710464422130" />
+    <state width="723" height="205" key="GridCell.Tab.0.center" timestamp="1710464422130">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="723" height="205" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1710464422130" />
+    <state width="723" height="205" key="GridCell.Tab.0.left" timestamp="1710464422129">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="723" height="205" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1710464422129" />
+    <state width="723" height="205" key="GridCell.Tab.0.right" timestamp="1710464422130">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="723" height="205" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1710464422130" />
+    <state x="0" y="31" key="new project wizard" timestamp="1709531236797">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="0" y="31" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1709531236797" />
+    <state x="47" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1709522653506">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="47" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1709522653506" />
+  </component>
+</project>
