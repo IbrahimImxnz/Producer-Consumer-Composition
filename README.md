@@ -1,0 +1,1 @@
+This project has an example of a producer-consumer problem using threads and implementing Runnable interface as the classes intend to be used by a thread one at a time to prevent multiple threads from executing at the same time.
